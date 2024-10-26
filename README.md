@@ -1,2 +1,1 @@
-![Tech Theme Screenshot](/Images/TechMoribundMurdoch/Tech-Theme-Screenshot.png)
-
+![Tech Theme Screenshot](Images%20TechMoribundMurdoch/Tech%20Theme%20Screenshot.png)
